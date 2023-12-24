@@ -1,0 +1,10 @@
+com\synear\hadoop\WordCountJobSubmitter$IntSumReducer.class
+com\synear\hadoop\WebsiteKPIPVSubmitter$KPIPVMapper.class
+com\synear\hadoop\WebsiteKPIPVSubmitter$KPIPVReducer.class
+com\synear\hadoop\WordCountJobSubmitter.class
+com\synear\hadoop\WordCountJobSubmitter$TokenizerMapper.class
+com\synear\hadoop\FriendRecommendationSubmitter.class
+com\synear\hadoop\FriendRecommendationSubmitter$FriendRecommendationReducer.class
+com\synear\hadoop\WordCountJobSubmitter$IntWritableDecreasingComparator.class
+com\synear\hadoop\FriendRecommendationSubmitter$FriendRecommendationReducer$1.class
+com\synear\hadoop\FriendRecommendationSubmitter$FriendRecommendationMapper.class
